@@ -1,9 +1,16 @@
 <html>	
 <head>
+
 	<title>Online Resume | About Me </title>
+	<STYLE>
+			.TextWrap {
+					float: right;
+			}
+	</STYLE>
 	<link rel="stylesheet" href="css/styles.css" type="text/css">
 
 </head>
+
 <body>
 	<nav><a href="#"> About Me</a> | <a href="#"> Portfolio </a></nav>
 
@@ -13,17 +20,18 @@
 
 	<h3> I Enjoy Life as a Developer </h3>
 
-	<p> I'm Alberto, a developer who lives in Brooklyn </p>
+	<img CLASS="TextWrap" src="images/images.jpeg" height="90px" width="100"> 
+	<p> I'm Alberto, a fresh developer who lives in Brooklyn. </p>
 
-	<img src="images/images.jpeg" height="90px" width="100"> 
 
 	<hr>
-<nav>
- <a href="#"> Facebook</a>|
- <a href="#"> Twitter </a>|
- <a href="#"> LinkedIn </a>|
- <a href="#"> Instagram</a>
-</nav>
+
+	<nav>
+ 	<a href="#"> Facebook</a>|
+ 	<a href="#"> Twitter </a>|
+ 	<a href="#"> LinkedIn </a>|
+ 	<a href="#"> Instagram</a>
+	</nav>
 
 </body>
 </html>
